@@ -1,0 +1,31 @@
+{
+  "slot": {
+    "symbols": ["🍒", "🍋", "🍇", "⭐", "💎"],
+    "payouts": {
+      "🍒🍒🍒": 5,
+      "🍋🍋🍋": 10,
+      "🍇🍇🍇": 15,
+      "⭐⭐⭐": 30,
+      "💎💎💎": 100
+    },
+    "cost": 1000
+  },
+  "work": {
+    "min": 100,
+    "max": 300
+  },
+  "dice": {
+    "bet": 500,
+    "multiplier": 5
+  },
+  "br": {
+    "bet": 1000,
+    "red_black_multiplier": 2,
+    "white_multiplier": 10,
+    "white_chance": 0.05
+  },
+  "blackjack": {
+    "bet": 2000,
+    "win_multiplier": 2
+  }
+}
